@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Priyanka Marathe</h1>
-<h3 align="center">💻 Full Stack Developer | React • PHP • IoT • CodeIgniter</h3>
+<h3 align="center">💻 Full Stack Developer | React • PHP • IoT • CodeIgniter • MERN Stack</h3>
 
 ---
 
